@@ -2,7 +2,7 @@
 <h1>Привет!</h1>
 <div id="header" align="center">
    <div>
-    <img src="https://tenor.com/ru/view/book-of-boba-fett-the-mandalorian-this-is-the-way-the-book-of-boba-fett-mandalorian-gif-24825263.gif"/>
+    <img width='70%' src="https://tenor.com/ru/view/book-of-boba-fett-the-mandalorian-this-is-the-way-the-book-of-boba-fett-mandalorian-gif-24825263.gif"/>
   </div
   <div id="links" align="center">
     <a href="https://t.me/AndrewBavyka" target="_blank">
