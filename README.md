@@ -2,11 +2,11 @@
 <h1>Привет!</h1>
 <div id="header" align="center">
    <div>
-    <img width='70%' src="https://tenor.com/ru/view/book-of-boba-fett-the-mandalorian-this-is-the-way-the-book-of-boba-fett-mandalorian-gif-24825263.gif"/>
+    <img width='300px' src="https://tenor.com/ru/view/book-of-boba-fett-the-mandalorian-this-is-the-way-the-book-of-boba-fett-mandalorian-gif-24825263.gif"/>
   </div
   <div id="links" align="center">
     <a href="https://t.me/AndrewBavyka" target="_blank">
-      <img width='40%' src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Мой Telegram"/>
+      <img width='300px' src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Мой Telegram"/>
     </a>
   </div>
 </div>
